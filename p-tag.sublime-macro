@@ -1,0 +1,38 @@
+[
+	{
+		"args":
+		{
+			"to": "hardbol"
+		},
+		"command": "move_to"
+	},
+	{
+		"args":
+		{
+			"characters": "<p>"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"to": "hardeol"
+		},
+		"command": "move_to"
+	},
+	{
+		"args":
+		{
+			"characters": "</p>"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"by": "lines",
+			"forward": true
+		},
+		"command": "move"
+	}
+]

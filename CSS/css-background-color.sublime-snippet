@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+<![CDATA[
+background: #${1:};
+]]>
+	</content>
+    <tabTrigger>bc</tabTrigger>
+    <scope>source.css</scope>
+    <description>CSS Background Shorthand with Color only.</description>
+</snippet>

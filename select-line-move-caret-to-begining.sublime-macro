@@ -1,0 +1,17 @@
+[
+	{
+		"args":
+		{
+			"to": "hardeol"
+		},
+		"command": "move_to"
+	},
+	{
+		"args":
+		{
+			"extend": true,
+			"to": "hardbol"
+		},
+		"command": "move_to"
+	}
+]

@@ -1,0 +1,24 @@
+<snippet>
+  <content>
+<![CDATA[<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>jQuery Play</title>
+  <style>
+
+  </style>
+</head>
+<body>
+  $0
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js"></script>
+  <script>
+  \$()
+  // console.log()
+</script>
+</body>
+</html>]]>
+  </content>
+  <tabTrigger>play</tabTrigger>
+  <!-- <scope>text.html</scope> -->
+</snippet>

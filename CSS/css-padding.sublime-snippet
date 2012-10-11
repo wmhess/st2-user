@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+<![CDATA[
+padding: ${1:}px;
+]]>
+	</content>
+    <tabTrigger>p</tabTrigger>
+    <scope>source.css</scope>
+    <description>CSS Margin</description>
+</snippet>

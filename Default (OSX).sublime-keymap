@@ -1,0 +1,35 @@
+[
+{ "keys": ["alt+p"], "command": "run_macro_file", "args": 
+  {"file": "Packages/User/p-tag.sublime-macro" } 
+},
+{ "keys": ["alt+l"], "command": "run_macro_file", "args": 
+  {"file": "Packages/User/li-tag.sublime-macro" } 
+},
+{ "keys": ["ctrl+l"], "command": "run_macro_file", "args": 
+  {"file": "Packages/User/select-line-move-caret-to-begining.sublime-macro" } 
+},
+{ "keys": ["ctrl+w"], "command": "expand_selection", "args": 
+{"to": "word"} 
+},
+{ "keys": ["ctrl+u"], "command": "title_case" },
+{ "keys": ["ctrl+shift+u"], "command": "upper_case" },
+{ "keys": ["alt+u"], "command": "lower_case" },
+
+//these rely on the column-thing.py plugin in the User directory. Mimics TM behavior.
+{ "command": "shift_selections",
+  "keys"   : ["ctrl+super+left"],
+  "args"   : {"forward": false} },
+{ "command": "shift_selections",
+  "keys"   : ["ctrl+super+right"],
+  "args"   : {"forward": true} },
+
+// Do the vim thing
+{ "keys": ["ctrl+["], "command": "exit_insert_mode",
+  "context":
+  [
+    { "key": "setting.command_mode", "operand": false },
+    { "key": "setting.is_widget", "operand": false }
+  ]
+}
+
+]

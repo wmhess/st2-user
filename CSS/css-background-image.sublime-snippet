@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+<![CDATA[
+background: url(images/${1:}) ${2:no-repeat};
+]]>
+	</content>
+    <tabTrigger>bi</tabTrigger>
+    <scope>source.css</scope>
+    <description>CSS Background Shorthand with Image Path</description>
+</snippet>
