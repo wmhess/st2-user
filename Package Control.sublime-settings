@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1349995976,
+	"auto_upgrade_last_run": 1350742757,
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -10,6 +10,10 @@
 		"jQuery Snippets pack",
 		"JS Minify",
 		"Package Control",
+		"RailsCasts Colour Scheme",
+		"Terminal",
+		"Theme - Soda",
+		"VintageEx",
 		"ZenCoding"
 	]
 }
