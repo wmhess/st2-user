@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1350742757,
+	"auto_upgrade_last_run": 1350748202,
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -9,6 +9,7 @@
 		"jQuery",
 		"jQuery Snippets pack",
 		"JS Minify",
+		"Nettuts+ Fetch",
 		"Package Control",
 		"RailsCasts Colour Scheme",
 		"Terminal",
