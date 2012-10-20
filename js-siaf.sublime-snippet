@@ -1,0 +1,12 @@
+<snippet>
+    <content>
+<![CDATA[
+(function() {
+  ${1}
+})();
+]]>
+	</content>
+    <tabTrigger>siaf</tabTrigger>
+    <!-- <scope>source.css</scope> -->
+    <description>Self-invoking anonymous function</description>
+</snippet>
