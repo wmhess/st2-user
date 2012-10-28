@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1350748202,
+	"auto_upgrade_last_run": 1351440866,
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -12,7 +12,9 @@
 		"Nettuts+ Fetch",
 		"Package Control",
 		"RailsCasts Colour Scheme",
+		"Sublime Files",
 		"Terminal",
+		"Theme - Pseudo OSX",
 		"Theme - Soda",
 		"VintageEx",
 		"ZenCoding"
